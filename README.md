@@ -9,7 +9,7 @@ This repository contains all the codes related to the assignments and homeworks 
 
 **Region Segmentation-Assignment 2.py** implements region segmentation on an RGB image using Fuzzy c-means algorithm. 
 
-**Assignment-3.ipynb** uses MNIST dataset to develop individual Deep learning models that performs
+**Assignment-3.ipynb** uses MNIST dataset to develop individual deep learning models that performs
 a) Foreground extraction
 b) Classification along with circlization
 c) Semantic segmentation
