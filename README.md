@@ -13,3 +13,4 @@ This repository contains all the codes related to the assignments and homeworks 
 a) Foreground extraction
 b) Classification along with circlization
 c) Semantic segmentation
+Evaluation of all the predicted images on the test dataset is done using Jaccard similarity. 
